@@ -8,4 +8,4 @@ First App for Android Development Online Class
 Disclaimer: The intellectual property for the images used in this project is belongs to the creator.
 
 Online Class presentation slides:
-https://github.com/pyhoon/android-development-online-class/blob/main/README.md
+https://github.com/pyhoon/android-development-online-class
